@@ -1,1 +1,2 @@
-Voici un test sur un deuxieme fichier
+Voici un test de modif en ligne.
+Modif affectuée depuis GitHub.
